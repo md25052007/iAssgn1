@@ -1,16 +1,16 @@
-\# Assignment 2 — Create \& Run Two Containers That Communicate
+# Assignment 2 — Create \& Run Two Containers That Communicate
 
 
 
-\*\*Goal:\*\* Deploy two containers — one static web server and one simple API — and connect them using Docker networking.
+**Goal:** Deploy two containers — one static web server and one simple API — and connect them using Docker networking.
 
 
 
-\*\*Approach:\*\* Created a custom Docker network `webnet` so containers can communicate using container names. Built a static web server container using Nginx. Ran a simple API container using `hashicorp/http-echo`. Verified communication between containers using `curl` from the web container.
+**Approach:** Created a custom Docker network `webnet` so containers can communicate using container names. Built a static web server container using Nginx. Ran a simple API container using `hashicorp/http-echo`. Verified communication between containers using `curl` from the web container.
 
 
 
-\*\*Steps and Commands:\*\*
+**Steps and Commands:**
 
 
 
