@@ -54,7 +54,7 @@ docker exec -it web curl http://api:5678
 
 
 
-\*\*Expected output:\*\*
+**Expected output:**
 
 Hello from API
 
