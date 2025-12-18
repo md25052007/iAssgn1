@@ -1,8 +1,8 @@
-\# Assignment 1 — Build \& Run a Personalized Web Server Container
+# Assignment 1 — Build \& Run a Personalized Web Server Container
 
 
 
-\## Approach
+## Approach
 
 A simple static website was created using HTML and served through an Nginx web server inside a Docker container.
 
@@ -10,7 +10,7 @@ Docker was used to build a custom image, run the container with port mapping, ve
 
 
 
-\## Instructions and Commands Used
+## Instructions and Commands Used
 
 
 
